@@ -13,6 +13,7 @@ public class Sample {
 
 	void m3() {
 		System.out.println("ganapathy engineering college");
+		System.out.println("shivani engineering college");
 	}
 
 	void m4() {
