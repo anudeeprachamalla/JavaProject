@@ -11,6 +11,10 @@ public class Sample {
 		System.out.println("jayamukhi engineering college");
 	}
 
+	void m3() {
+		System.out.println("ganapathy engineering college");
+	}
+
 	public static void main(String[] args) {
 
 		Sample s = new Sample();
