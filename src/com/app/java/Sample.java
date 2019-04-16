@@ -15,6 +15,11 @@ public class Sample {
 		System.out.println("ganapathy engineering college");
 	}
 
+	void m4() {
+		m3();
+		System.out.println("sr engineering college");
+	}
+
 	public static void main(String[] args) {
 
 		Sample s = new Sample();
